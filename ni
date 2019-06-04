@@ -1,7 +1,6 @@
 Address = 188.68.36.196 655
 Subnet = 10.243.113.223
 Subnet = 42:0:a46e:c68b:4db0:3a27:7cfb:9ef4
-Subnet = 191.237.232.75/32
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEA7NHuW8eLVhpBfL70WwcSGVmv4dijKLJs5cH/BmqK8zN2lpiLKt12
